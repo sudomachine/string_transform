@@ -1,0 +1,3 @@
+C:/Users/sudakov/Documents/Fntastik/task_1/build-string_transform-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/string_transform.dir
+C:/Users/sudakov/Documents/Fntastik/task_1/build-string_transform-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/sudakov/Documents/Fntastik/task_1/build-string_transform-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
