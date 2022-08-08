@@ -13,7 +13,7 @@ void encrypt(std::string& input_string);
  * and transfrom char from uppercase to lowercase
  * @param input_char
  * @param chars_array
- * @return true if char presents if the array or false otherwise
+ * @return true if char presents in the array or false otherwise
  */
 bool isFirstEntry(char& input_char, std::map<char, bool>& chars_array);
 
@@ -61,10 +61,12 @@ int main()
     // Проведение теста
     for (size_t i = 0; i < arrays_number; ++i)
     {
-        print(arrays[i]);
-        encrypt(arrays[i]);
+        print(arrays[i]);   
+		encrypt(arrays[i]);
         print(arrays[i]);
     }
+	
+	system("pause");
 
     return 0;
 }
